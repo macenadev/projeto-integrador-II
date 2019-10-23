@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+h1, h2, h3, h4, h5 { text-align: center;}
+
+p{
+    font-family: 'Antic Slab', serif;
+}
+
+li a {
+    font-family: 'Advent Pro', sans-serif;
+    font-size: 1.2em;
+    text-transform: uppercase;
+}
